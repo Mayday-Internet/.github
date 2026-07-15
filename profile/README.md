@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://www.maydayinternet.com/wp-content/uploads/2026/05/Mayday-Internet-Logo-t.svg]" alt="Mayday Internet" width="180"/>
+<img src="https://www.maydayinternet.com/wp-content/uploads/2026/05/Mayday-Internet-Logo-t.svg" alt="Mayday Internet" width="180"/>
 
 # Mayday Internet
 
